@@ -4,7 +4,6 @@
 Project Goal: Creating a Functional RC F1 Car
 
 
-
 This project's main goal is to build an actual working, motorized RC Formula 1 car. This CAD model is the first component design I made.
 
 
@@ -24,7 +23,7 @@ I created the exact mounting points and alignment required to connect the motor,
 
 So far the basic structural chassis piece is complete and ready for the first prototype print to verify the fit with the existing motor and wheels.
 
-Future Plans - This is one of my first steps for making an RC Car, I wanted to start small like this so I can get an idea of how the process works so next time I plan on making a bigger car that can be programmed and I will add more motors and make it look better.
+(MAIN REASON I MADE THIS)Future Plans - This is one of my first steps for making an RC Car, I wanted to start small like this so I can get an idea of how the process works so next time I plan on making a bigger car that can be programmed and I will add more motors and make it look better.
 
 <img width="1344" height="1176" alt="image" src="https://github.com/user-attachments/assets/8870984c-d92d-49a2-b5ff-97b07274e9db" />
 
